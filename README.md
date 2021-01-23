@@ -1,5 +1,9 @@
 # SupplierFinance
 
+The purpose of the system is to decrease the time of gathering documents which are related to assets and payments to the banks. These assets and payments are done by Blockchain techonolgy which guarentees the verification.
+
+Technologies used to implement are mongoDB, Hyperledger, Docker, Angular, Typescript,  Amazon Web Servers
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.1.
 
 ## Development server
